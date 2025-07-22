@@ -1,0 +1,9 @@
+var:
+  last_build_time: 1753190743
+  option:
+    simplification: true
+  previously_selected_schema: luna_pinyin_simp
+  schema_access_time:
+    luna_pinyin: 1753109105
+    luna_pinyin_simp: 1753160953
+    luna_quanpin: 1753097464
