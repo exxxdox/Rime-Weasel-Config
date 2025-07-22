@@ -18,3 +18,4 @@ Rime真是太好用啦 🥰
 +  https://github.com/lotem/rime-octagram-data
 +  https://github.com/lotem/librime-octagram
 +  https://github.com/hchunhui/librime-lua
++  https://github.com/rime/rime-luna-pinyin
